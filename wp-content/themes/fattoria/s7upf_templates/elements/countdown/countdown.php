@@ -1,0 +1,1 @@
+<div class="countdown-style-default <?php echo esc_attr($style)?> time-countdowns hidden-canvas" data-date="<?php echo esc_attr($date_time)?>" data-text='["Day","hrs","min","sec"]'></div>
